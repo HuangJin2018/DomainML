@@ -3,6 +3,14 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# data file
+data/
+mlruns/
+
+# jupyter notebook
+.virtual_documents/
+.ipynb_checkpoints/
+
 # C extensions
 *.so
 
